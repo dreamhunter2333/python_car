@@ -1,4 +1,5 @@
 # Python opencv 车牌识别
+[新版](https://github.com/jinmu333/python_PlateRecogntion)
 ## 简介
 ### 文件图片识别车牌
 ### 网络图片地址识别车牌
